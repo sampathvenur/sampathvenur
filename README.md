@@ -7,8 +7,9 @@
 Welcome to my GitHub profile! I'm a CS undergraduate with a knack for developing innovative solutions and a constant drive to learn new technologies. My journey revolves around mastering both the **technical** and **logical** sides of problem-solving—whether it's building efficient web applications or tackling complex real-life challenges.
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/sampath-kumar-44262326a)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sampathkumarvenur@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/sampath-kumar-44262326a)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=gmail&logoColor=white)](mailto:sampathkumarvenur@gmail.com)
+<!--[![Twitter(X)](https://img.shields.io/badge/Twitter-000000?style=plastic&logo=x&logoColor=white)](https://x.com/Sampath_kumar06) -->
 
 ## 💻 Tech Stack:
 ![HTML](https://skillicons.dev/icons?i=html)
