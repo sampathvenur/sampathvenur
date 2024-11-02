@@ -11,21 +11,21 @@ Welcome to my GitHub profile! I'm a CS undergraduate with a knack for developing
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sampathkumarvenur@gmail.com)
 
 ## 💻 Tech Stack:
-[![HTML](https://skillicons.dev/icons?i=html)]
-[![CSS](https://skillicons.dev/icons?i=css)]
-[![JavaScript](https://skillicons.dev/icons?i=js)]
-[![Node.js](https://skillicons.dev/icons?i=nodejs)]
-[![Express](https://skillicons.dev/icons?i=express)]
-[![MongoDB](https://skillicons.dev/icons?i=mongodb)]
-[![Postman](https://skillicons.dev/icons?i=postman)]
-[![Linux](https://skillicons.dev/icons?i=linux)]
-[![C](https://skillicons.dev/icons?i=c)]
-[![C++](https://skillicons.dev/icons?i=cpp)]
-[![Python](https://skillicons.dev/icons?i=python)]
-[![React](https://skillicons.dev/icons?i=react)]
-[![Java](https://skillicons.dev/icons?i=java)]
-[![Git](https://skillicons.dev/icons?i=git)]
-[![SQLite](https://skillicons.dev/icons?i=sqlite)]
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![Postman](https://skillicons.dev/icons?i=postman)
+![Linux](https://skillicons.dev/icons?i=linux)
+![C](https://skillicons.dev/icons?i=c)
+![C++](https://skillicons.dev/icons?i=cpp)
+![Python](https://skillicons.dev/icons?i=python)
+![React](https://skillicons.dev/icons?i=react)
+![Java](https://skillicons.dev/icons?i=java)
+![Git](https://skillicons.dev/icons?i=git)
+![SQLite](https://skillicons.dev/icons?i=sqlite)
 
 ## 🚀 What I’m Working On
 Currently, I’m involved in projects aimed at simplifying digital experiences, keeping pace with the latest in tech trends, and exploring the world of **generative AI** prompts. I’m also diving into **non-fiction books** to broaden my perspective and make reading a daily habit. 📚
@@ -40,11 +40,9 @@ I’m always open to collaborating on exciting projects and solving challenging 
 - **Philosophy**: I believe logic is a tool for both code and life, guiding me in finding effective solutions both on-screen and off.
 
 ## 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=sampathkumar&theme=dark&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=sampathvenur&theme=dark&hide_border=false)
 
 ---
-
-This setup brings in both the Gmail link and icons for each specific technology in your stack, making your profile even more visually appealing! Let me know if you’d like any further adjustments!.
 
 <!---
 sampathvenur/sampathvenur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
