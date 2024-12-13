@@ -4,7 +4,7 @@
 
 **Computer Science Undergrad | Passionate about Web Development, Problem Solving & Generative AI**
 
-Welcome to my GitHub profile! I'm a CS undergraduate with a knack for developing innovative solutions and a constant drive to learn new technologies. My journey revolves around mastering both the **technical** and **logical** sides of problem-solving—whether it's building efficient web applications or tackling complex real-life challenges.
+Welcome to my GitHub profile! I'm a CS undergraduate with a knack for developing innovative solutions and a constant drive to learn new technologies. My journey revolves around mastering both the **technical** and **logical** sides of problem-solving whether it's building efficient web applications or tackling complex real-life challenges.
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/sampath-kumar-44262326a)
