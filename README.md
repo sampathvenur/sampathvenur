@@ -27,6 +27,7 @@ Welcome to my GitHub profile! I'm a CS undergraduate with a knack for developing
 ![Java](https://skillicons.dev/icons?i=java)
 ![Git](https://skillicons.dev/icons?i=git)
 ![SQLite](https://skillicons.dev/icons?i=sqlite)
+![Docker](https://skillicons.dev/icons?i=docker)
 
 ## 🚀 What I’m Working On
 Currently, I’m involved in projects aimed at simplifying digital experiences, keeping pace with the latest in tech trends, and exploring the world of **generative AI** prompts. I’m also diving into **non-fiction books** to broaden my perspective and make reading a daily habit. 📚
