@@ -21,12 +21,11 @@ Welcome to my GitHub profile! I'm a CS undergraduate with a knack for developing
 ![Postman](https://skillicons.dev/icons?i=postman)
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![C](https://skillicons.dev/icons?i=c)
-![C++](https://skillicons.dev/icons?i=cpp)
 ![Python](https://skillicons.dev/icons?i=python)
 ![React](https://skillicons.dev/icons?i=react)
 ![Java](https://skillicons.dev/icons?i=java)
 ![Git](https://skillicons.dev/icons?i=git)
-![SQLite](https://skillicons.dev/icons?i=sqlite)
+![SQLite](https://skillicons.dev/icons?i=mysql)
 ![Docker](https://skillicons.dev/icons?i=docker)
 
 ## 🚀 What I’m Working On
