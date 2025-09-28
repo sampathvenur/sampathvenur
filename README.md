@@ -23,13 +23,13 @@ Welcome to my GitHub profile! I'm a CS undergraduate with a knack for developing
 ![C](https://skillicons.dev/icons?i=c)
 ![Python](https://skillicons.dev/icons?i=python)
 ![React](https://skillicons.dev/icons?i=react)
-![Java](https://skillicons.dev/icons?i=java)
 ![Git](https://skillicons.dev/icons?i=git)
 ![SQLite](https://skillicons.dev/icons?i=mysql)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Firebase](https://skillicons.dev/icons?i=firebase)
-![Google Cloud](https://skillicons.dev/icons?i=googlecloud)
+![Google Cloud](https://skillicons.dev/icons?i=aws)
+![Go](https://skillicons.dev/icons?i=go)
 
 ## 🚀 What I’m Working On
 Currently, I’m involved in projects aimed at simplifying digital experiences, keeping pace with the latest in tech trends, and exploring the world of **generative AI** prompts. I’m also diving into **non-fiction books** to broaden my perspective and make reading a daily habit. 📚
