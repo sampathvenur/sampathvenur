@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Sampath Kumar (a.k.a. "Sampy")
 
-<img align="right" src="https://hacktoberfest.com/_next/static/media/sloan-the-sloth.8ed4b34d.svg" width="300"/>
+<img align="right" src="https://github.com/images/modules/search/light2x.png" width="300"/>
 
 **Computer Science Undergrad | Passionate about Web Development, Problem Solving & Generative AI**
 
